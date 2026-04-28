@@ -38,9 +38,11 @@
 
 ### 🤖 Asistentes de Desarrollo / IA
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=githubcopilot,claude" title="Copilot y Claude" />
-  <img src="https://skillicons.dev/icons?i=opencode,openspec,antigravity" title="Open Code, Open Spec y Antigravity" />
+  <img src="https://skillicons.dev/icons?i=githubcopilot,claude" />
+  <img src="https://skillicons.dev/icons?i=opencode,openspec,antigravity" />
 </p>
+
+> **Nota:** Mis herramientas de IA incluyen Claude Code, Claude Design, OpenCode, OpenSpec y Antigravity.
 
 <br/>
 
