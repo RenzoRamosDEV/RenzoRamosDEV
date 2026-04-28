@@ -23,36 +23,28 @@
 
 ### 🧩 Backend & Infraestructura
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,maven,gradle,docker,linux" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,maven,gradle,docker,linux" />
 </p>
 
 ### 🎨 Frontend & UI
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### 🧰 Herramientas de Desarrollo
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,idea,vscode,windows" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,idea,vscode,windows" />
 </p>
 
----
-
-### 🤖 Ecosistema de IA & Asistentes
-| Herramienta | Función |
-| :--- | :--- |
-| **GitHub Copilot CLI** | ![Copilot](https://img.shields.io/badge/-000000?style=flat-square&logo=githubcopilot) |
-| **Claude (Code & Design)** | ![Claude](https://img.shields.io/badge/-7C3AED?style=flat-square&logo=anthropic) |
-| **OpenCode / OpenSpec** | ![Open](https://img.shields.io/badge/-111111?style=flat-square) |
-| **Antigravity** | ![Antigravity](https://img.shields.io/badge/-111111?style=flat-square) |
+### 🤖 Asistentes de Desarrollo / IA
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=githubcopilot,claude" title="Copilot y Claude" />
+  <img src="https://skillicons.dev/icons?i=opencode,openspec,antigravity" title="Open Code, Open Spec y Antigravity" />
+</p>
 
 <br/>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%"/>
