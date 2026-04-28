@@ -1,15 +1,24 @@
 # Hola, soy Renzo
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+## Desarrollador de Aplicaciones Multiplataforma
 
-## Desarrolador de Aplicaciones Multiplataforma
+<table>
+<tr>
+<td>
 
 - 👨‍💻 Trabajo en el desarrollo de soluciones backend y aplicaciones web completas  
 - 📚 En constante mejora en arquitectura de software, bases de datos y buenas prácticas de desarrollo  
 - 💪🏼 Objetivo profesional: construir sistemas escalables, bien estructurados y listos para producción  
 - ⚡ Experiencia trabajando con integración entre backend, frontend y herramientas de desarrollo modernas  
 
----
+</td>
+<td width="180">
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160"/>
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Mi Stack
 
