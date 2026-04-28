@@ -4,8 +4,6 @@
 
 ## Desarrolador de Aplicaciones MUltiplataforma
 
--[website]: https://your-portfolio.com
--[linkedin]: https://linkedin.com/in/yourprofile
 -👨‍💻 Trabajo en el desarrollo de soluciones backend y aplicaciones web completas
 -📚 En constante mejora en arquitectura de software, bases de datos y buenas prácticas de desarrollo
 -💪🏼 Objetivo profesional: construir sistemas escalables, bien estructurados y listos para producción
