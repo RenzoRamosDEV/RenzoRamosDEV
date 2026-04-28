@@ -21,7 +21,17 @@
 
 ## 🛠️ Mi Stack Tecnológico
 
-### 🧩 Backend & Infraestructura
+### 🤖 Ecosistema de IA & Asistentes
+
+| Herramienta | Descripción |
+| :--- | :--- |
+| **GitHub Copilot CLI** | Asistente en terminal para comandos inteligentes y automatización de flujos Git. |
+| **Claude Code** | Agente de IA especializado en razonamiento complejo y refactorización de código. |
+| **Claude Design** | Optimización de interfaces de usuario y prototipado visual asistido. |
+| **OpenCode** | Implementación y consulta de estándares de codificación abierta. |
+| **OpenSpec** | Definición y análisis técnico de especificaciones para sistemas escalables. |
+
+### 🧩 Backend 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,maven,gradle,docker,git" />
@@ -41,18 +51,6 @@
     <img src="https://skillicons.dev/icons?i=idea,vscode,windows,linux" />
   </a>
 </p>
-
----
-
-### 🤖 Ecosistema de IA & Asistentes
-
-| Herramienta | Descripción |
-| :--- | :--- |
-| **GitHub Copilot CLI** | Asistente en terminal para comandos inteligentes y automatización de flujos Git. |
-| **Claude Code** | Agente de IA especializado en razonamiento complejo y refactorización de código. |
-| **Claude Design** | Optimización de interfaces de usuario y prototipado visual asistido. |
-| **OpenCode** | Implementación y consulta de estándares de codificación abierta. |
-| **OpenSpec** | Definición y análisis técnico de especificaciones para sistemas escalables. |
 
 <br/>
 
