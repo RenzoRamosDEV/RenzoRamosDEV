@@ -54,6 +54,14 @@
 
 <br/>
 
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/renzoinv04/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%"/>
 </p>
