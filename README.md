@@ -59,5 +59,5 @@
 </p>
 
 <p align="center">
-  ⭐️ Hecho con ❤️ por <a href="https://github.com/Renzo">Renzo</a>
+  Hecho por <a href="https://www.linkedin.com/in/renzoinv04/"><b>Renzo Ramos</b></a>
 </p>
