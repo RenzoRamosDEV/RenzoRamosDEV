@@ -1,23 +1,13 @@
-# Hola, soy Renzo - aka [Renzo][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hola, soy Renzo
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Desarrolador de Aplicaciones MUltiplataforma
+## Desarrolador de Aplicaciones Multiplataforma
 
 -👨‍💻 Trabajo en el desarrollo de soluciones backend y aplicaciones web completas
 -📚 En constante mejora en arquitectura de software, bases de datos y buenas prácticas de desarrollo
 -💪🏼 Objetivo profesional: construir sistemas escalables, bien estructurados y listos para producción
 -⚡ Experiencia trabajando con integración entre backend, frontend y herramientas de desarrollo modernas  
-
----
-
-### Contacto 📝
-
-[<img align="left" alt="portfolio" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-
-<br />
 
 ---
 
