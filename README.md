@@ -2,24 +2,16 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Soy estudiante de Ciencias de la Computación y Programación  
+## Desarrolador de Aplicaciones MUltiplataforma
 
-- 👨‍💻 Actualmente trabajo en sistemas backend con Java y Spring Boot  
-- 📚 Aprendiendo sobre arquitectura de sistemas escalables 😅  
-- 💪🏼 Objetivo futuro: dominar microservicios, cloud y diseño de sistemas  
-- ⚡ Dato curioso: me gustan los coches 🏎️ y el fútbol ⚽  
-
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify en reproducción 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com)
+-[website]: https://your-portfolio.com
+-[linkedin]: https://linkedin.com/in/yourprofile
+-👨‍💻 Trabajo en el desarrollo de soluciones backend y aplicaciones web completas
+-📚 En constante mejora en arquitectura de software, bases de datos y buenas prácticas de desarrollo
+-💪🏼 Objetivo profesional: construir sistemas escalables, bien estructurados y listos para producción
+-⚡ Experiencia trabajando con integración entre backend, frontend y herramientas de desarrollo modernas  
 
 ---
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Renzo&repo=Renzo&countColor=%237B1E7B"/>
 
 ### Contacto 📝
 
@@ -31,32 +23,42 @@
 
 ---
 
-### Lenguajes y herramientas 🛠 
+## 🛠️ Mi Stack
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square)
-![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+### 🧩 Backend
+![Java](https://skillicons.dev/icons?i=java)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![Spring Boot](https://skillicons.dev/icons?i=spring)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Maven](https://skillicons.dev/icons?i=maven)
+![Gradle](https://skillicons.dev/icons?i=gradle)
 
 ---
 
-### Herramientas de IA / Desarrollo 🤖
-![Copilot CLI](https://img.shields.io/badge/-Copilot%20CLI-000000?style=flat-square)
+### 🎨 Frontend
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![React](https://skillicons.dev/icons?i=react)
+
+---
+
+### 💻 Sistemas Operativos
+![Linux](https://skillicons.dev/icons?i=linux)
+![Windows](https://skillicons.dev/icons?i=windows)
+
+---
+
+### 🧰 Herramientas de desarrollo
+![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+---
+
+### 🤖 Asistentes de desarrollo / IA
+![GitHub Copilot](https://img.shields.io/badge/-Copilot%20CLI-000000?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-7C3AED?style=flat-square)
 ![Claude Design](https://img.shields.io/badge/-Claude%20Design-7C3AED?style=flat-square)
 ![OpenCode](https://img.shields.io/badge/-OpenCode-111111?style=flat-square)
@@ -67,27 +69,5 @@
 
 ---
 
-<br/>
-
-<h2 align="center"> 📊 Estadísticas de GitHub </h2>
-
-<div align="center"> 
-   <a href="">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Renzo&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-  </a>
-  <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renzo&theme=react&line_height=40&hide=css"/>
-  </a>
-</div>
-
-<br/>
-
----
-
 ### ⭐️ Hecho por [Renzo](https://github.com/Renzo)
 
----
-
-[website]: https://your-portfolio.com
-[instagram]: https://instagram.com/yourprofile
-[linkedin]: https://linkedin.com/in/yourprofile
