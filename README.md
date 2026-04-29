@@ -34,10 +34,6 @@ Trabajo en el desarrollo de soluciones **backend** y aplicaciones web completas.
 | **OpenCode** | Implementación de estándares de codificación abierta. |
 | **OpenSpec** | Análisis técnico de especificaciones escalables. |
 
-    </td>
-    <td width="35%" align="center">
-      ✨ *Impulsando el desarrollo con IA*
-    </td>
   </tr>
 </table>
 
