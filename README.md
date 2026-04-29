@@ -3,13 +3,13 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-### 🚀 Desarrollador de Aplicaciones Multiplataforma
+🚀 Desarrollador de Aplicaciones Multiplataforma
 Trabajo en el desarrollo de soluciones **backend** y aplicaciones web completas. Mi enfoque está en la creación de sistemas robustos y eficientes.
 
 - 🌐 **Visita mi portafolio:** [renzoramosdev.github.io](https://renzoramosdev.github.io/RenzoRamosPortafolio/)
-- 📚 En constante mejora en arquitectura, bases de datos y buenas prácticas  
-- 💪 Objetivo: construir sistemas escalables y listos para producción  
-- ⚡ Experiencia en integración entre frontend, backend y herramientas modernas  
+- 📚 En constante mejora en arquitectura, bases de datos y buenas prácticas.  
+- 💪 Objetivo: construir sistemas escalables y listos para producción.  
+- ⚡ Experiencia en integración entre frontend, backend y herramientas modernas.  
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="220"/>
