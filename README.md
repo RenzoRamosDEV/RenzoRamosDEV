@@ -7,7 +7,8 @@
 ### 🚀 Desarrollador de Aplicaciones Multiplataforma
 
 Construyo aplicaciones **backend robustas** y sistemas web completos con enfoque en:
-- Arquitectura limpia  
+- Arquitectura limpia
+- Buen manejo de IA
 - Escalabilidad  
 - Buenas prácticas reales de producción  
 
