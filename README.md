@@ -6,11 +6,14 @@
 
 ### 🚀 Desarrollador de Aplicaciones Multiplataforma
 
-Construyo aplicaciones **backend robustas** y sistemas web completos con enfoque en:
-- Arquitectura limpia
-- Buen manejo de IA
-- Escalabilidad  
-- Buenas prácticas reales de producción  
+Desarrollo aplicaciones backend y sistemas web completos con enfoque en arquitectura sólida, escalabilidad y calidad de software.
+
+Trabajo aplicando:
+
+- 🧱 Arquitectura limpia y mantenible
+- 🤖 Integración y uso de IA en soluciones reales
+- ⚡ Diseño orientado a escalabilidad y rendimiento
+- 🧩 Buenas prácticas de desarrollo orientadas a producción
 
     </td>
     <td width="35%" align="center" valign="middle">
