@@ -63,12 +63,13 @@ Soy desarrollador centrado en backend y sistemas web, con enfoque en construir s
 
 ## 🤖 IA & Productividad
 
-| Herramienta | Uso real |
-|------------|--------|
-| GitHub Copilot | Autocompletado y generación de código |
-| Claude | Refactorización y análisis |
-| ChatGPT | Diseño de soluciones y debugging |
-| OpenSpec | Definición de especificaciones técnicas |
+| Herramienta        | Uso real |
+|------------------|--------|
+| GitHub Copilot CLI | Generación de código y asistencia en terminal |
+| Claude Code        | Refactorización, análisis de código y lógica compleja |
+| Claude Design      | Diseño de interfaces y estructuración de soluciones |
+| OpenCode           | Estandarización y calidad del código |
+| OpenSpec           | Definición y análisis de especificaciones técnicas |
 
 ---
 
