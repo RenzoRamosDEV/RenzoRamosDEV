@@ -26,32 +26,13 @@ Trabajo en el desarrollo de soluciones **backend** y aplicaciones web completas.
 
 ### 🤖 Ecosistema de IA & Asistentes
 
-<table width="100%">
-  <tr>
-    <th width="35%">Herramienta</th>
-    <th width="65%">Descripción</th>
-  </tr>
-  <tr>
-    <td><b>GitHub Copilot CLI</b></td>
-    <td>Asistente en terminal para comandos inteligentes y automatización de flujos Git.</td>
-  </tr>
-  <tr>
-    <td><b>Claude Code</b></td>
-    <td>Agente de IA especializado en razonamiento complejo y refactorización de código.</td>
-  </tr>
-  <tr>
-    <td><b>Claude Design</b></td>
-    <td>Optimización de interfaces de usuario y prototipado visual asistido.</td>
-  </tr>
-  <tr>
-    <td><b>OpenCode</b></td>
-    <td>Implementación y consulta de estándares de codificación abierta.</td>
-  </tr>
-  <tr>
-    <td><b>OpenSpec</b></td>
-    <td>Definición y análisis técnico de especificaciones para sistemas escalables.</td>
-  </tr>
-</table>
+| Herramienta | Descripción |
+| :--- | :--- |
+| **GitHub Copilot CLI** | Asistente en terminal para comandos inteligentes y automatización de flujos Git. |
+| **Claude Code** | Agente de IA especializado en razonamiento complejo y refactorización de código. |
+| **Claude Design** | Optimización de interfaces de usuario y prototipado visual asistido. |
+| **OpenCode** | Implementación y consulta de estándares de codificación abierta. |
+| **OpenSpec** | Definición y análisis técnico de especificaciones para sistemas escalables. | quiero que mi tabala de abajo sea del mismo tamañao que la de arriba solo la tabala
 
 ### 🧩 Backend 
 <p align="left">
