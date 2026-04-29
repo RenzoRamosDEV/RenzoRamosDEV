@@ -74,33 +74,11 @@ Soy desarrollador centrado en backend y sistemas web, con enfoque en construir s
 
 ---
 
-## 🚀 Proyectos Destacados
-
-### 📦 Sistema de Inventario
-- API REST con **Spring Boot**  
-- Gestión de productos y stock  
-- Persistencia con **MySQL**  
-- Contenerizado con **Docker**
-
-### 🎟️ Venta de Entradas (Microservicios)
-- Arquitectura distribuida  
-- Backend con **Spring Boot**  
-- Frontend con **React**  
-- Comunicación entre servicios  
-
----
-
 ## 📌 En qué estoy ahora
 
-- 🏗️ Construyendo proyectos con arquitectura tipo **microservicios**  
-- 📦 Sistemas de inventario y gestión  
-- 🧪 Mejorando testing y calidad de código  
+- 🏗️ Desarrollando proyectos con enfoque en arquitectura moderna  
+- 🤖 Integrando IA en el ciclo de desarrollo (debugging, refactorización y diseño)  
+- 🧪 Mejorando testing, calidad de código y prácticas de ingeniería  
 
 ---
 
-## 📊 Enfoque profesional
-
-```text
-Código limpio > código rápido
-Arquitectura > improvisación
-Escalabilidad > soluciones temporales
