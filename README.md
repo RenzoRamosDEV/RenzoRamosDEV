@@ -1,71 +1,93 @@
-# Hola, soy Renzo 👋
+# 👋 Hola, soy Renzo Ramos
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-🚀 Desarrollador de Aplicaciones Multiplataforma
-Trabajo en el desarrollo de soluciones **backend** y aplicaciones web completas. Mi enfoque está en la creación de sistemas robustos y eficientes.
+### 🚀 Desarrollador de Aplicaciones Multiplataforma
 
-- 🌐 **Visita mi portafolio:** [renzoramosdev.github.io](https://renzoramosdev.github.io/RenzoRamosPortafolio/)
-- 📚 En constante mejora en arquitectura, bases de datos y buenas prácticas.  
-- 💪 Objetivo: construir sistemas escalables y listos para producción.  
-- ⚡ Experiencia en integración entre frontend, backend y herramientas modernas.  
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="220"/>
-    </td>
-  </tr>
-</table>
+Construyo aplicaciones **backend robustas** y sistemas web completos con enfoque en:
+- Arquitectura limpia  
+- Escalabilidad  
+- Buenas prácticas reales de producción  
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+## 🧠 Sobre mí
 
-### 🤖 Ecosistema de IA & Asistentes
-<table>
-  <tr>
-    <td width="65%" valign="top">
+Soy desarrollador centrado en backend y sistemas web, con enfoque en construir soluciones mantenibles, escalables y bien estructuradas.
 
-| Herramienta | Descripción |
-| :--- | :--- |
-| **GitHub Copilot CLI** | Asistente en terminal para comandos inteligentes. |
-| **Claude Code** | Agente de IA para razonamiento y refactorización. |
-| **Claude Design** | Optimización de interfaces y prototipado visual. |
-| **OpenCode** | Implementación de estándares de codificación abierta. |
-| **OpenSpec** | Análisis técnico de especificaciones escalables. |
-
-  </tr>
-</table>
-
-### 🧩 Backend 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,maven,gradle,docker,git" />
-  </a>
-</p>
-
-### 🎨 Frontend & UI
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-  </a>
-</p>
-
-### 🧰 Herramientas de Desarrollo
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,windows,linux" />
-  </a>
-</p>
-
-<br/>
+- 🧩 APIs REST con **Java / Spring Boot**  
+- 🗄️ Bases de datos relacionales (**MySQL**)  
+- 🔗 Integración completa entre frontend y backend  
+- ⚙️ Contenedores con **Docker**  
+- 🧠 Buenas prácticas, arquitectura y calidad de código  
 
 ---
 
-<p align="center">
-  🌐 <a href="https://renzoramosdev.github.io/RenzoRamosPortafolio/"><b>Ver Portafolio Web</b></a> | 
-  🔗 <a href="https://www.linkedin.com/in/renzoinv04/"><b>LinkedIn</b></a>
+## 🌐 Portafolio
+
+🔗 **Web:**  
+👉 https://renzoramosdev.github.io/RenzoRamosPortafolio/
+
+🔗 **LinkedIn:**  
+👉 https://www.linkedin.com/in/renzoinv04/
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### 🧩 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,maven,gradle,docker,git" />
 </p>
-<p align="center">
-  Hecho por <b>Renzo Ramos</b>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
+
+### 🧰 Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,linux,windows" />
+</p>
+
+---
+
+## 🤖 IA & Productividad
+
+| Herramienta | Uso real |
+|------------|--------|
+| GitHub Copilot | Autocompletado y generación de código |
+| Claude | Refactorización y análisis |
+| ChatGPT | Diseño de soluciones y debugging |
+| OpenSpec | Definición de especificaciones técnicas |
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 📦 Sistema de Inventario
+- API REST con **Spring Boot**  
+- Gestión de productos y stock  
+- Persistencia con **MySQL**  
+- Contenerizado con **Docker**
+
+### 🎟️ Venta de Entradas (Microservicios)
+- Arquitectura distribuida  
+- Backend con **Spring Boot**  
+- Frontend con **React**  
+- Comunicación entre servicios  
+
+---
+
+## 📌 En qué estoy ahora
+
+- 🏗️ Construyendo proyectos con arquitectura tipo **microservicios**  
+- 📦 Sistemas de inventario y gestión  
+- 🧪 Mejorando testing y calidad de código  
+
+---
+
+## 📊 Enfoque profesional
+
+```text
+Código limpio > código rápido
+Arquitectura > improvisación
+Escalabilidad > soluciones temporales
