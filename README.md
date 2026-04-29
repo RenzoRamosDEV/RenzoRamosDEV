@@ -12,7 +12,7 @@
       </ul>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160" />
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://media4.giphy.com/media/Sh1iCtJZEdx4PFYy4q/source.gif" width="160" />
     </td>
   </tr>
 </table>
