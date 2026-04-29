@@ -25,7 +25,7 @@ Construyo aplicaciones **backend robustas** y sistemas web completos con enfoque
 Soy desarrollador centrado en backend y sistemas web, con enfoque en construir soluciones mantenibles, escalables y bien estructuradas.
 
 - 🧩 APIs REST con **Java / Spring Boot**  
-- 🗄️ Bases de datos relacionales (**MySQL**)  
+- 🗄️ Bases de datos  
 - 🔗 Integración completa entre frontend y backend  
 - ⚙️ Contenedores con **Docker**  
 - 🧠 Buenas prácticas, arquitectura y calidad de código  
