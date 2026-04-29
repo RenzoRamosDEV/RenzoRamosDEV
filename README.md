@@ -1,11 +1,22 @@
 # 👋 Hola, soy Renzo Ramos
 
+<table>
+  <tr>
+    <td width="65%" valign="top">
+
 ### 🚀 Desarrollador de Aplicaciones Multiplataforma
 
 Construyo aplicaciones **backend robustas** y sistemas web completos con enfoque en:
 - Arquitectura limpia  
 - Escalabilidad  
 - Buenas prácticas reales de producción  
+
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="220"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
