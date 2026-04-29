@@ -12,11 +12,9 @@ Trabajo en el desarrollo de soluciones **backend** y aplicaciones web completas.
 - 💪 Objetivo: construir sistemas escalables y listos para producción  
 - ⚡ Experiencia en integración entre frontend, backend y herramientas modernas  
 
-    </td>
-
     <td width="35%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/UCQ5LookOT2ufbsGiT/giphy.gif" width="220"/>
-</td>
+        <img src="https://media.giphy.com/media/UCQ5LookOT2ufbsGiT/giphy.gif" width="220"/>
+    </td>
   </tr>
 </table>
 
