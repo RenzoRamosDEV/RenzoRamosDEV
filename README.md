@@ -2,17 +2,20 @@
 
 <table>
   <tr>
-    <td width="70%" valign="top">
-      <h3>🚀 Desarrollador de Aplicaciones Multiplataforma</h3>
-      <p>Trabajo en el desarrollo de soluciones <b>backend</b> y aplicaciones web completas. Mi enfoque está en la creación de sistemas robustos y eficientes.</p>
-      <ul>
-        <li>📚 En constante mejora en arquitectura, bases de datos y buenas prácticas.</li>
-        <li>💪 Objetivo: construir sistemas escalables y listos para producción.</li>
-        <li>⚡ Experto en integración entre frontend, backend y herramientas modernas.</li>
-      </ul>
+    <td width="65%" valign="top">
+
+### 🚀 Desarrollador de Aplicaciones Multiplataforma
+
+Trabajo en el desarrollo de soluciones **backend** y aplicaciones web completas. Mi enfoque está en la creación de sistemas robustos y eficientes.
+
+- 📚 En constante mejora en arquitectura, bases de datos y buenas prácticas  
+- 💪 Objetivo: construir sistemas escalables y listos para producción  
+- ⚡ Experiencia en integración entre frontend, backend y herramientas modernas  
+
     </td>
-    <td width="30%" align="center" valign="middle">
-        <img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="160" align="right" />
+
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="220"/>
     </td>
   </tr>
 </table>
