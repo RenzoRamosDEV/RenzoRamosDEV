@@ -15,8 +15,8 @@ Trabajo en el desarrollo de soluciones **backend** y aplicaciones web completas.
     </td>
 
     <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="220"/>
-    </td>
+  <img src="https://media.giphy.com/media/UCQ5LookOT2ufbsGiT/giphy.gif" width="220"/>
+</td>
   </tr>
 </table>
 
