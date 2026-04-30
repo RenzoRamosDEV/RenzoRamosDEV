@@ -87,23 +87,13 @@ Soy desarrollador centrado en backend y sistemas web, con enfoque en construir s
 ## 📊 GitHub Activity
 
 <div align="center">
-  <table border="0" style="border-collapse: collapse; border: none;">
-    <!-- Fila superior: Las dos pequeñas -->
-    <tr style="border: none;">
-      <td style="border: none;" width="50%">
-        <img src="https://streak-stats.demolab.com?user=RenzoRamosDEV&theme=tokyonight" width="100%" />
-      </td>
-      <td style="border: none;" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=RenzoRamosDEV&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
-      </td>
-    </tr>
-    <!-- Fila inferior: La grande -->
-    <tr style="border: none;">
-      <td colspan="2" style="border: none;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=RenzoRamosDEV&theme=tokyo-night" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img 
+    src="https://streak-stats.demolab.com?user=RenzoRamosDEV&theme=tokyonight" 
+    width="35%" 
+  /><img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RenzoRamosDEV&theme=tokyo-night" 
+    width="63%" 
+  />
 </div>
 
 
