@@ -87,13 +87,7 @@ Soy desarrollador centrado en backend y sistemas web, con enfoque en construir s
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=RenzoRamosDEV&theme=tokyonight" 
-    width="35%" 
-  /><img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RenzoRamosDEV&theme=tokyo-night" 
-    width="63%" 
-  />
+  <img src="https://streak-stats.demolab.com?user=RenzoRamosDEV&theme=tokyonight" width="48.5%" /><img src="https://github-readme-activity-graph.vercel.app/graph?username=RenzoRamosDEV&theme=tokyo-night" width="48.5%" />
 </div>
 
 
