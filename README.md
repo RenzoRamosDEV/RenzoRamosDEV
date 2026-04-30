@@ -83,11 +83,5 @@ Soy desarrollador centrado en backend y sistemas web, con enfoque en construir s
 - 🤖 Integrando IA en el ciclo de desarrollo (debugging, refactorización y diseño)  
 - 🧪 Mejorando testing, calidad de código y prácticas de ingeniería  
 
----
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RenzoRamosDEV&theme=tokyonight" width="100%" />
-</div>
 
 
