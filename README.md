@@ -84,4 +84,7 @@ Soy desarrollador centrado en backend y sistemas web, con enfoque en construir s
 - 🧪 Mejorando testing, calidad de código y prácticas de ingeniería  
 
 ---
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USER&show_icons=true" />
+  <img src="https://streak-stats.demolab.com?user=TU_USER" />
+</div>
