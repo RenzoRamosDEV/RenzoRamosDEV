@@ -85,4 +85,3 @@ Soy desarrollador centrado en backend y sistemas web, con enfoque en construir s
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USER)
