@@ -84,4 +84,10 @@ Soy desarrollador centrado en backend y sistemas web, con enfoque en construir s
 - 🧪 Mejorando testing, calidad de código y prácticas de ingeniería  
 
 ---
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USER&theme=github-dark)
+## 📊 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RenzoRamosDEV&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RenzoRamosDEV&theme=tokyo-night)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenzoRamosDEV&show_icons=true&theme=tokyonight)
