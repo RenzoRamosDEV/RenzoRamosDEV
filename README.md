@@ -4,7 +4,7 @@
   <tr>
     <td width="65%" valign="top">
 
-### 🚀 Desarrollador de Aplicaciones Multiplataforma
+### 🚀 Desarrollador Junior de Aplicaciones Multiplataforma
 
 Desarrollo aplicaciones backend y sistemas web completos con enfoque en arquitectura sólida, escalabilidad y calidad de software.
 
